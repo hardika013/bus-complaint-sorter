@@ -1,0 +1,18 @@
+BUS COMPLAINT SORTER - SUMMARY REPORT
+=====================================
+
+Total complaints: 20
+Urgent safety complaints: 8
+Complaints requiring human review: 4
+
+COMPLAINT CATEGORIES
+--------------------
+crowding: 3
+delay: 4
+driver: 4
+other: 1
+route_request: 2
+vehicle: 6
+
+IMPORTANT:
+AI classifications are suggestions only. The transport officer must review and make all final decisions.

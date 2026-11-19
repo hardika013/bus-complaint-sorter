@@ -1,0 +1,5 @@
+﻿id,date,complaint,route,route_area,route_validation,category,urgency,summary,human_review_required,review_reason,final_decision
+C05,2026-11-03,Please add a pickup stop near CIT main gate on Avinashi Road.,,,not_stated,route_request,False,Student is requesting a new pickup stop near the CIT main gate on Avinashi Road.,True,Route requires human verification.,
+C12,2026-11-06,Can the college arrange a bus stop closer to the Lakshmi Mills junction?,,,not_stated,route_request,False,Student requests a new bus stop to be arranged closer to the Lakshmi Mills junction.,True,Route requires human verification.,
+C18,2026-11-09,"Bus romba late ah varudhu, CIT stop la neraya neram wait panrom.",,,not_stated,delay,False,"A student reports that the bus is consistently very late, causing long waiting times at the CIT stop.",True,Route requires human verification.,
+C19,2026-11-10,This bus service is confusing and nobody has explained the pickup timing.,,,not_stated,other,False,Student reported confusion regarding the bus service and a lack of explanation concerning pickup timings.,True,Route requires human verification.,
